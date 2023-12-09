@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thecage555
-- 👀 I’m interested in network and system administration
-- 🌱 I’m currently studying for a JNCIA cert and interning as a sys admin at a school
-- 📫 I can be reached at bassisten15@gmail.com or thru discord, my handle is "The Cage#1136"
+- 👀 I’m interested in network, system administration and videogames
+- 🌱 I’m currently trying to learn Java and C#
+- 📫 I can be reached at bassisten15@gmail.com or thru discord, my handle is "thecage"
 
 <!---
 thecage555/thecage555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
